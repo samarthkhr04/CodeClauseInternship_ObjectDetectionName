@@ -1,0 +1,2 @@
+# CodeClauseInternship_ObjectDetectionName
+Developed this project using python programming language
